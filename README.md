@@ -18,5 +18,9 @@ On 2021 holydays I've been reading from
 - Cars!
 - [Arcs]()
 - [Path Movement](https://love2d.org/forums/viewtopic.php?t=82007)
+
+The tiles and graphics are from:
+- [Kennei](https://kenney.nl/assets)
+
 \n
 ...
