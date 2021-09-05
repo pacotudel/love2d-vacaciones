@@ -13,4 +13,10 @@ On 2021 holydays I've been reading from
 - [Boids](https://www.red3d.com/cwr/steer/gdc99/)
 - [Hump](https://love2d.org/wiki/HUMP)
 - [STI](https://love2d.org/forums/viewtopic.php?t=76983)
+- Particles
+- Shots!
+- Cars!
+- [Arcs]()
+- [Path Movement](https://love2d.org/forums/viewtopic.php?t=82007)
+\n
 ...
